@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Aguirre</h1>
 <h3 align="center">A passionate DevSecOps Engineer with interest in DevOps, Cloud, Infrastructure and Security</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=universe1609&label=Profile%20views&color=0e75b6&style=flat" alt="universe1609" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=universe1609" alt="universe1609" /></a> </p>
-
 - 🔭 I’m currently working on **Pacifico Seguros**
 
 - 🌱 I’m currently learning **Azure and Github Enterprise Features**
