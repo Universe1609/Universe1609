@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Pacifico Seguros**
 
-- 🌱 I’m currently learning **Azure and Github Enterprise Features**
+- 🌱 I’m currently learning **Azure and Golang**
 
 - 📝 I regularly write articles on [Medium](Medium)
 
