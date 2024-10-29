@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm David Aguirre</h1>
 <h3 align="center">A passionate DevSecOps Engineer with interest in DevOps, Cloud, Infrastructure and Security</h3>
 
-- 🔭 I’m currently working on **Pacifico Seguros**
+- 🔭 Currently working on **Pacifico Seguros**
 
-- 🌱 I’m currently learning **Azure and Golang**
+- 🌱 Currently learning **Azure and Golang**
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 Regularly write articles on [Medium](Medium)
 
 - 💬 Ask me about **AWS, DevOps, IaC, Ansible, Kubernetes**
 
